@@ -1,0 +1,1773 @@
+Completion Note,Description,Category,WO#
+Downloaded error codes and verified serial numbers,"download the error log on both MerryChef ovens at each location Ideally the USB drives you should use are 4GB or less and formatted FAT, a standard windows format",Menu Issue,ST328001
+Firmware update completed on both ovens,MerryChef firmware upgrade *store currently closed - Starbucks is sending keys and alarm codes*,Power Supply,ST328002
+Loctite update done,"Needs filter sensor loctite. *STORE CURRENTLY CLOSED, NO OPEN DATE AT THIS TIME - REACH OUT TO FSM AND CALL STORE TO SCHEDULE*",Close Door Error,ST328003
+nan,"Replacement of data cables from the KCCM Module to SRB required. Firmware Update required as well. Parts and Firmware USB have been shipped to the Market. This has a required completion date of 6/09/21. Instructions for cable swap attached in procedures as well as with parts package. Cable tags and ties are not included, fill out information on printed instruction sheet included in parts kit. Cables will need to be returned to Turbo Technicians Addison office, return label enclosed with",Menu Issue,ST328006
+"Removed and replaced Turbochef S/N NGOD 43285
+with Merrychef S/N 1907213091370. Merrychef oven is operationally checked with no discrepancies noted.",1) pickup 1 used merry chef oven and install it at store 3299. Discard the existing NGO unit. Please reachout to Zach at Northwest to coordinate the pickup of the unit 503-319-1174. ST3299 number: 3608489629,No Power,ST3299007
+Menu update,Oven did not update for Winter launch. Tried using the update USB and it did not work. Oven needs updated,Menu Issue,ST3299009
+"Arrived on site, store using oven heavily all day without issue. Watched them cook several items.
+Mags, Heater, Fan and board all testing fine. 
+Could not duplicate issue.
+Updated menu while on site","The chocolate croissants aren't being fully warmed up, the same thing is happening to the chocolate cookies",Microwave,ST3299013
+Updated menu,Oven needs to be connected to internet because it is not up to date on the display. Menu items needs to be updated on display. It cannot be updated unless wired to the internet.,Menu Issue,ST18628033
+"RightE2S 
+
+Faults
+0
+
+Volts
+208
+
+Amps
+R-8.3
+L-8.3
+
+Heater Amps 
+10.9
+
+Checked EC , unable to recreate issue 
+
+Tested unit all tests passed with zero results 
+
+Drew",This oven is temping hotter than the other oven and getting things crispier than they should be. Its a new one that was replaced recently but its really hot,Smoking,ST18628034
+Loctite update for filter sensor completed,"Needs filter sensor loctite. *STORE CURRENTLY CLOSED, NO OPEN DATE AT THIS TIME - REACH OUT TO FSM AND CALL STORE TO SCHEDULE*",Close Door Error,ST328004
+"Replaced both ovens back panels, downloaded error codes and cook counter.","We will be replacing back panels on the merrychef ovens at this location. We will bill $285 in labor per store. The parts are being supplied by Welbilt. We can start installing these panels on October 27th, we have 2 weeks to complete the retrofit project Invoice Welbilt",Control,ST328005
+nan,"Replacement of data cables from the KCCM Module to SRB required. Firmware Update required as well. Parts and Firmware USB have been shipped to the Market. This has a required completion date of 6/09/21. Instructions for cable swap attached in procedures as well as with parts package. Cable tags and ties are not included, fill out information on printed instruction sheet included in parts kit. Cables will need to be returned to Turbo Technicians Addison office, return label enclosed with",Menu Issue,ST328007
+nan,Touch screen is unresponsive half of the time,Display Issue,ST10830022
+"Left Oven
+Cook Count: 60215
+
+Found oven in use, customer says it has not smelled all day. 
+
+Smell likely from food debris or oven cleaner.
+
+Unable to duplicate issue.
+
+Left Mag: 8.2
+Right Mag: 8.3
+Heater: 10.7
+Blower and all fans are operational. Set date and time. 
+
+
+Closed with FCC at 1519PST",Left oven has terrible smell multiple times a day and goes away within ten minutes. We cleaned the filter and scrubbed all inside with sanitizer and oven cleaner but nothing helps,Door,ST22633016
+"PHR with Stephanie 
+Had her cycle power","Getting a ""constant key press detected. Call service support."" Message on screen",Constant Key Press,ST22633017
+"Called spoke with Ralph had him power cycle the oven, this fixed the issue. Closed with FCC at 1102PST","Warning code constant key press detected call service support X:308, y:233",Constant Key Press,ST22633018
+"Left Oven
+Cook Count: 138,600
+
+Found oven reading constant key press detected. Power cycled and reheated oven. 
+
+Left Mag: 8.4
+Right Mag: 8.2
+Heater: 11.1
+Blower and all fans are operational. Set date and time. 
+
+
+Closed with FCC at 0922PST",Screen says constant key press detected,Constant Key Press,ST22633020
+"Left oven 
+CC 145069
+Constant key press 
+
+Ovens on on arrival
+All functions working properly 
+L mag 8.3,R mag 8.3
+Current menu holiday 22
+Tested with cook
+
+Closed with FCC at 1703pst","Constant key press detected, turned off oven 3 times and message still there. Left oven",Constant Key Press,ST22633021
+"Called spoke with Alexa had her power cycle the oven this fixed the issue. 
+
+Closed with FCC at 1043PST",Constant key press - Wouldnt let us push any buttons and then shut down to this screen ***tried to call store to resolve on the phone but there was no answer,Constant Key Press,ST22633024
+"Left Oven
+Cook Count: 204517
+Faults: None
+Voltage: 208(210)
+Amps: Right: 8.3
+             Left: 8.2
+Heater Amps: 10.2
+
+Issue: Oven has damaged cook tray and studs.
+
+Resolution: Had FSM order two cook plates. Will call both ovens in after cook plates arrove.
+
+Closed with FCC at 1613PST","Oven is making a noise whenever trying to cook something. The timer will pause for a second or two and noise will start. Before noticing said issue, parchment of a cookie caught on fire inside the oven.",Loud Noises,ST22633025
+Stubs and tray causing arching and noise. Store manager will order two cook trays and call both ovens back in,"Alexis (Shift) called because the MerryChef Assest#:7290124850 is not heating food items correctly and has been making strange noises including a knocking and a grinding sound. Previous ticket #19926166 from 6/25 is listed as completed, however the issue persists. Store hrs:4a-10p KBA 12272",Loud Noises,ST22633026
+"Had manager cycle power 
+Oven now operational
+PHR
+Closed with FCC at 1834pst",Touch screen is unresponsive half of the time,Constant Key Press,ST22633028
+"Spoke with Ricky shift supervisor, he said oven has been cleaned and they have used it all morning with no issues, he said no service needed at this time PHR",Something internal is causing a smell like melted plastic or burned rubber,Foul Odor,ST22633030
+"Left oven 
+Cook count 248524
+208v
+No errors 
+
+Inspected oven
+Could not duplicate customer complaint 
+L mag 8.7
+R mag 8.6
+Heater 9.8
+All other functions working properly 
+Cook plate and stubs look to be in good condition 
+All other functions working properly
+Closed with FCC at 0721pst","9257854051 Repeat of WT#25414242 Kate SHFT Reporting L Merrychef E2S Oven, Smells like burning plastic or melting rubber inside the oven, also smokes, No Error, has cleaned the oven, no trouble shooting for this issue Merrychef E2S Ovens - All Issues KB0012272 7290124850 Serial#:2006213090069 S/H ?am-4pm Today 4am-10pm Fri",Foul Odor,ST22633031
+"Called store to give eta and SS had already cycled power
+Oven operational 
+PHR",Warning sign on left oven. Will not start. As per store they are unable to unplug the oven due to outlet location,Constant Key Press,ST22633034
+Mag warranty,Hasnt been heating food all the way through now there is an error code,101 Magnetron Failure,ST22633036
+"Called the store and spoke with Wanda. The oven is reading constant key press detected. Had Wanda power cycle oven. This fixed the issue. 
+
+Closed with FCC at 1019PST",Service request,Constant Key Press,ST22633038
+"Power cycled oven, ran diagnostic tests, downloaded error log
+
+Oven operating nominally
+
+Closed with FCC @ 1640 PST","When it was finished heating up it said ""WARNING CONSTANT KEY PRESS DETECTED CALL SERVICE SUPPORT"" X: 55 Y: 66 sh 5am-9pm",Constant Key Press,ST22633014
+"SS Wanda cycled power, oven now warming.","Display saying ""warning constant key press detected call service support"" and an error saying release touch screen",Constant Key Press,ST22633022
+"Left 
+Cook Count 0
+E104
+
+Cavity stat misreading temperature.
+
+Disconnected and reconnected wiring.
+Observed warmup, heater drawing 9 amps, cycling.
+Ran recommission test routine, passed.
+Ran several menu items, test ok.","Chico Shift called because they had two new ovens installed last night. This morning there was a sticky note on one that said this oven overheats, call in for maintenance. When the oven is turned on it gives a message that says its overheating and it won't actually start. Error Code E104 These Are the newer black EICON ovens No Trbl Available Serial #2006213090071 Store Hours 5 am- 7:30 pm",116 Heater OFF on Request,ST5345004
+"Left 
+Cook Count 1431
+E116
+
+Virtual keyboards are blank. Merrychef emailed a firmware update and recommends replacing SRB. Will need to return.
+
+9/23/20
+Reflashed firmware, updated CBR file.
+Reset D&T.
+Ran recommission tests.
+Ran several menu items, test ok.
+Virtual keyboard still blank. Right oven is also blank.
+Will close call, mgt has been updated.","Gianna, SS, called in because new oven says heater failed. Keeps turning off in the middle of cooking cycles. Was just installed last week. Can not get cook count or error code log. SH: 430 am to 730pm SN:2006213090071 Asset: does not have MerryChef E2S Ovens - 1456",Power Supply,ST5345005
+"Left oven 
+CC 81193
+No errors 
+
+Temperature of food in fridge both egg bites and bacon Gouda are at 28 degrees 
+I cooked both items and still food warm enough to serve 192 degrees 
+All other functions working properly 
+Advise Sarah to have food warmer before cooking 
+Mags at 16.8 amps
+All other functions working properly
+Closed with FCC at 1811pst",Left oven is not cooking the food all the way,Food Not Cooking Properly,ST5345016
+Replaced left magnetron,Bella SS reported an oven(merry chef) making some noise on the interior part of the oven. ther's no available troubleshooting steps or KBs regarding this issue. KB0012272 KB0013980 QR#7290124996 Store hours: 4am - 8pm,Loud Noises,ST5345026
+"ISSUE REPORTED: door feels loose when closing and opening 
+
+PROBLEMS FOUND : door hinges secure mini plate loose.
+
+RESOLUTION: tighter screws for hinges to remain in place as doors open and closes. Checked oven diagnostics in visual view . Ran cook test cycle : oven is working to manufacture specs",Door feels loose everytime you open or close it and it makes a squeaking noise,Loud Noises,ST5345029
+"Right oven 
+CC 28620
+No errors 
+
+L mag 8.4
+R mag 8.4
+Heater 10.9
+
+Oven not heating items all the way through is the complaint 
+Found back of oven connections from guardian module smashed some and poor connection 
+Attached usb connection and reloaded menu
+Ran several cooks with no failures 
+Will have FSM order new guardian module 
+Also found burn mark on cook plate with matching burn on inside oven door
+Will order new cook plate and have sent to store
+Emailed FSM to have a guardian module sent to this location
+
+Closed with FCC at 1015pst",It wont cook food items correctly,Air Filter Error,ST5345010
+"Cook count: 
+
+Found oven showing Hol-21 menu (see attached picture), would not complete cook cycle for sandwich, when logging into tech menu oven had a blank keyboard (see attached picture). Suspect a bad Guardian module (on order from previous call).
+
+Tested oven, disconnected Guardian module, reloaded firmware & menu, multiple food items cooked correctly.
+
+Oven operating nominally.
+
+Closed with FCC @ 1555 PST",Oven not completing cooking cycle. Only cooking items for a few seconds,Upper Impinger Plate,ST5345011
+"Called, walked through troubleshooting with shift supervisor had them power cycle oven now back up and running",Oven will not pull up display constant,Constant Key Press,ST5345017
+"Called the store and spoke with Christina. The oven is reading constant key press detected. Had Christina power cycle the oven this fixed the issue.
+
+Closed with FCC at 1130PST",touch screen wont work,Constant Key Press,ST5345024
+"ISSUE REPORTED : door is open error sometimes pop when cooking 
+
+PROBLEMS FOUND : switch 1 mos aligned with manufacturer sequence 
+
+RESOLUTION: re aligned switch 1 to manufacture sequence with s2, and s3. Turned oven on , checked door diagnostics in visual view. Ran cook test cycle : oven is working to manufacture specs",Called it in early today because the oven door wouldn't close completed. They came in to fix it but message it still on the screen,Close Door Error,ST5345028
+"Found bolts on door handle missing on right side. Removed door and door skin, located bolts and replaced them using loctight. Replaced door. 
+Tested and the unit is working within manufacture specifications. 
+Closed with fcc",Handle damaged,Broken Door Handle,ST9928016
+"W.T. ST9928018
+PO# M 22583403
+2006213090077
+Lucien
+8:00-9:00 am
+
+Replaced touch screen.",Warning constant key press detected call service support,Constant Key Press,ST9928018
+"Rht 82
+Left 8.2
+Fault - o86
+Faults-101
+Blower 100
+
+Found unit up and running but has magnetron failure
+Door ok 
+Filter ok
+208/205
+L 4-3-8.7 amps 
+R 3-4-8.6 amps 
+H 10.6
+Blower 10-100
+
+Spoke with Mauricio, I will swap out the outlets and send Mauricio the error codes I was unable to reproduce error.",*tried calling store multiple times however its unsuccessful to reach them. Not allowing us to use it sh430am-12am,Loose Door Handle,ST24933010
+"Completed 10/22/21 @ 820am
+
+2006213090122
+Left oven 
+208volts 
+8.3 L mag
+8.3 R Mag
+10.3 H amps 
+
+Notes 
+Glitch in menu and screen needed calibration
+Tech updated firmware and menu and calibrated the touch screen
+Tested the oven
+All tests pass",Can not cook turkey pesto,102 Heater On Without Request,ST24933013
+"208/
+Cc 226131
+Door and filter ok 
+LM 8.9
+RM 8.8
+17.6 amps 
+H 10.7
+BF ok
+RF 10-100 ok
+
+Not letting us use the oven. We tuned it off and no luck . Damaged studs and tray causing arcing screen stuck 
+
+Tested unit and all test passed calibrated screen",Not letting us use the oven. We tuned it off and no luck .,Constant Key Press,ST24933021
+"*advised store to unplug the oven and plug it back in. Oven is working fine.
+",*advised store to unplug the oven and plug it back in. Oven is working fine. Left oven giving us an error and not letting us use it,Constant Key Press,ST24933024
+"Left MerryChef has no power due to the outlet only giving 1V informed Ray SS to input work order for electrician to get outlet repaired and then their oven will Be able to Turn on
+Verified breaker is on and I ever tried to plug other oven in and still did not work 
+Closing out call due to store needing electrician 
+Left outlet","Hi, this oven stopped and wont restart. Thank you",No Power,ST24933026
+"Right MerryChef 
+
+208V
+
+Faults zero p
+
+Amps-17.0
+Left Circuit-8.4
+Right Circuit-8.6
+Heaters-11.0
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly
+
+Door saying open when door closed 
+Caused by door switches needing adjustment 
+Adjusted switches 
+All test passed","Oven door will not sense when its closed, and continues to beep when closed.",Close Door Error,ST24933039
+nan,"Oven suddenly turned off tried to unplug it, checking the back cables but it still wont turn on",Shuts Off,ST24933041
+"E2S
+20062130090129
+
+Reloaded firmware and menu, tested unit all functions working properly.",Sarah-shift- states that oven is cooking and then powering off/ No trouble shooting for this issue/ Merrychef E2S Ovens - 1456/ QR# 20062130090129/ SH: 4:30-11p,104 Mag/Cavity Overheat Trip,ST51971009
+"Right oven
+Merrychef 
+208 volts 
+8.1 L mag amps 
+8.2 R mag amps 
+10.6 heater amps 
+E104 error over heat stat 
+
+Notes 
+Air filter was very dirty and clogged with dust and debris 
+Also found cook pan is damaged and cook studs in both ovens 
+Replaced the most damaged studs and told store to order cook trays for oven 
+Job completed","Mariah, SHIFT called about issues with the Merrychef oven. Gives an error code about overheating. SH- 430am-11pm Merrychef E2S Ovens - 1456",104 Mag/Cavity Overheat Trip,ST51971011
+"LeftE2S 
+
+Faults
+0
+
+Volts
+208
+
+Amps
+R-8.1
+L-8.3
+
+Heater Amps 
+10.9
+
+Checked EC , cook plate is worn as well as cook cavity studs , advised partner to order new plates and open ticket for new cavity studs to be installed 
+
+Tested unit all tests passed with zero faults 
+
+Salah",Making weird electrical noise,Loud Noises,ST51971013
+"Left MerryChef 2006213090129
+
+208V
+
+Faults zero
+
+Amps-16.8
+Left Circuit-8.4
+Right Circuit-8.4
+Heaters-10.7
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly
+
+Cook plate arching on cook studs
+Informed Mariah shift lead to order new cook plates for both ovens 
+And then to re input ticket once cook plates arrive 
+All test passed without any faults",Getting cold sandwhiches even when cooked on full time. Also making noises and randomly shutting off.,Food Not Cooking Properly,ST51971014
+"RightE2S 
+
+Faults
+0
+
+Volts
+208
+
+Amps
+8.3
+8.4
+
+Heater Amps 
+10.9
+
+Checked EC, partner cooking frozen food educated partner about food being frozen staff made necessary adjustments to fridge , oven needs new cook plates and cook cavity studs informed SS Salah to order new plates .
+
+Tested unit all tests passed with zero faults 
+
+Salah",Not cooking sandwhiches. Cold middle,Food Not Cooking Properly,ST51971016
+"208v
+
+Left oven 
+
+8.00 amps each circuit 
+17.90 mag amps combined 
+
+11.00 heater amps 
+
+Faults 
+Constant key press 
+
+Upon inspecting unit found that the oven screen froze on constant key press 
+
+Reset of unit and calibrated screen. 
+
+Tested unit all working properly 
+
+No other issues found",We dont have a key for the oven,Constant Key Press,ST51971027
+"Left Merrychef 
+208 vac
+8.3,8.3 amps 
+10.6 amps 
+No faults 
+
+Notes 
+Door open error 
+Found loose door switch and loose door Handel
+Tightened everything back down
+All tests pass",If we close the door on oven it doesn't recognize that its closed so the oven keeps beeping and delaying our food preparation.,Close Door Error,ST25047016
+"Nothing wrong with machine
+Customer called wrong one","Unit Not Level, Tech said he would come back and replace the pegs for us when we got new heating plates.",Convection,ST25047018
+"Touchscreen malfunction
+
+
+trouble shooting done",Touchscreen malfunction trouble shooting done,Constant Key Press,ST25047035
+"MOD Chandler
+
+Merrychef 
+VAC 208
+AMPS 8.7,8.8
+COMBINED 17.5
+HEATER AMPS 10.8
+Faults: none 
+
+Notes:
+Tech observed power cord not fully plugged into outlet
+Tech plugged oven power cord into outlet 
+Conducted Op Test 
+All Tests Passed",Did troubleshoot still not working screen is glitching and not working,Constant Key Press,ST25047041
+Unit is working properly. Had paper covering air intake.,Oven displaying warning error code. Will not power up. sh430am-1030pm,Constant Key Press,ST9791007
+"Completed 02/21/2022
+
+S/N# 2006213090138
+
+L amps 8.2
+
+R amps 8.2
+
+Notes—Door switches are fine and door is working properly. Faults for filter on error log. Made adjustments with door. All tests passed",Registering that door is open even when closed.,Power Supply,ST9791011
+"Completed 4/8/2022
+
+S/N#2006213090138
+
+L amps—8.5
+
+R amps—8.5
+
+Heaters—10.7
+
+Faults—0
+
+Notes—amps are good. Voltage is good. Nothing appears to be broken or needing to be replaced. I explained to the customer how to clean the oven properly and to give us a call if problem worsens",Smoke consistently comes out the side of oven. Very odd odor.,Smoking,ST9791012
+"Merrychef 
+208
+8.3,8.3 amps 
+10.6 amps 
+
+Notes 
+Open door 
+Found food debris blocking door from closing all the way, Tech removed product and adjusted door switches slightly","Oven door saying ""open door"" when door not opened",Close Door Error,ST9791014
+"Merrychef
+Left oven
+8.3,8.3 amps
+208ac
+
+
+Door open issue
+Adjusted door sensor
+All tests good",Door sensor is broken,Close Door Error,ST9791015
+"Merrychef
+Left oven
+208av
+8.3,8.3amps
+
+
+Unit had door open message
+Adjusted door switch
+All test pass",Door sensor messed up saying door open when not opened,Close Door Error,ST9791016
+"*as per store they troubleshoot the oven and oven is working fine.
+",*as per store they troubleshoot the oven and oven is working fine. Warming screen and we cant warm,Constant Key Press,ST9791017
+"Right MerryChef 
+
+E2S
+
+2006213090208
+
+208V
+
+Amps-16.3 
+Left Circuit-8.2 
+Right Circuit-8.0
+Heaters-10.3
+
+Stirrer working properly 
+Air filter cleaned
+
+Constant finger press display error. 
+
+Did a hard reset, unplugged unit for a full minute. Wiped down display. Checked EC, test unit, all test pass without faults. Informed shift supervisor Jonathan to ensure team members are not using their finger nails when pressing the display, as this can cause damage.",*constant key press detected Not working,Constant Key Press,ST11445012
+PHR- unplug ant test by cooking food - oven is operational,Touch screen not working **call service support**,Constant Key Press,ST11445013
+Installed plate all functions fine,The top of the oven has started to peel off.,Upper Impinger Plate,ST11445015
+"Amps 8.2
+Hz-60
+Vac208 
+Blower 100
+
+
+Found filter in wrong I showed manager tested unit all functions fine closed with fcc pst",Keeps giving a filter removed message. Tried to clean it out but problem continues,103 Ambient Overtemp,ST11445020
+"Completed 4/19/2022
+
+S/N#2006213090208
+
+L amps—7.4
+
+R amps—7.4
+
+Volts—204
+
+Heaters—9.6
+
+Faults—0
+
+Notes—constant key press",Screen is frozen on error message,102 Heater On Without Request,ST11445025
+"Left MerryChef2006213090208
+
+208V
+
+Faults zero
+
+Amps-16.8
+Left Circuit-8.4
+Right Circuit-8.4
+Heaters-11.0
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly 
+
+Impinger plate fell 
+Flipped and used other screw holes to hold up
+All test passed without any faults",Top part inside of oven came off,Upper Impinger Plate,ST11445028
+"Left MerryChef 2006213090208
+
+208V
+
+Faults constant key press 
+
+Amps-17.6
+Left Circuit-8.8
+Right Circuit-8.8
+Heaters-10.8
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly 
+
+Constant key press 
+Showed Celeste how to get rid of error by unplugging and plugging in oven 
+Informed her why this happens and how to prevent by keeping display clean and only one touch at a time 
+All test passed without any faults 
+Celeste",Error message for touch screen not working properly,Constant Key Press,ST11445043
+"Mod:Cathy
+Sn#2006213090208
+Main:240
+Heater:10
+Mags:8,8
+
+Notes:
+Tech responded to door close call 
+Inspection found blown fuse 
+Part replaced and tested 
+All tests passed","The ""door is open"" message won't leave the screen even with the door closed",Close Door Error,ST11445052
+"240/
+Cc 346533
+Door and filter ok 
+LM 7.3
+RM 7.4
+H 9.6
+BF ok
+RF 10-100
+
+Repeated issue with this particular oven. Close to 6?8 tickets regarding the door not closing correctly and giving an error message saying ""do not close"". Switches out of sequence dirty EC clogged vents and air filter causing over heating 
+
+Tested unit all test passed","Repeated issue with this particular oven. Close to 6?8 tickets regarding the door not closing correctly and giving an error message saying ""do not close"".",Close Door Error,ST11445064
+"Left MerryChef 
+
+208V
+
+Faults 
+
+Amps-17.0
+Left Circuit-8.4
+Right Circuit-8.6
+Heaters-11.0
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly
+
+Constant key press detected 
+Showed SS how to resolve error by unplugging unit from outlet for 10’seconds then plugging back in to give oven a hard reset. 
+Calibrated units display
+All test passed without any faults 
+Josh","Touchscreen is not working. It gave an error code, please see photo. called the store spoke to Celeste said already unplug and replug the oven but display is stuck in calibration part.",Constant Key Press,ST11445065
+"Mod:
+Brand:Left Merrychef 
+Sn#200621-309-0208
+Main:208V
+Heater:10.5A
+Mags:8.2,8.3A
+
+Notes:
+Tech responded to fallen impinger plate
+Inspection found",Roof on the inside of far left oven has fallen off track/threading is damaged for screws.,Upper Impinger Plate,ST11445070
+"208/205
+SP 500
+Door 
+Filter 
+L 8.3 amps 
+R 8.5 amps 
+heaters 
+10.7 amps
+Touch screen screws are loose
+
+Tested unit and all test passed no faults found
+
+Note I was unable to reproduce error on touch screen",Oven screen says constant key press detected call service support. Then said lpading touch calibration and went white. Screen is non responsive and will not turn off with push of the button,Constant Key Press,ST3425017
+"No service needed oven working as normal after reset. 
+
+Closed fcc 8:50pm",Constant key press detected,Constant Key Press,ST3425018
+"Left 2006213090215
+
+Faults
+E107
+E087
+E080
+
+CC
+172092
+
+Volts
+208
+
+Amps 16.5
+L 8.2
+R 8.2
+
+Heater 10.2
+Blower ok 
+Fan ok
+Door ok 
+Filter ok 
+
+Reload firmware and menu
+Recalibrate touch screen 
+Reset day date and time 
+Test systems and find zero faults 
+
+Cook tray arcing out - notified Supervisor 
+
+Shanti / Supervisor",Touch screen not working at all,Display Issue,ST3425025
+Upon arrival store partner stated that oven is working fine no service rendered,Oven makes grinding sound when in use and smells like something is burning. Nothing is burning inside and there is no significant damage to the outside. Checked plugs and vents on back.,Loud Noises,ST3425040
+"Left MerryChef 
+
+208V
+
+Faults constant key press 
+
+Amps-17.0
+Left Circuit-8.4
+Right Circuit-8.6
+Heaters-10.8
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly 
+
+Constant key press detected 
+Showed Jessica SS how to resolve error by unplugging unit from outlet for 10’seconds then plugging back in to give oven a hard reset. 
+Calibrated units display
+All test passed without any faults 
+Jessica SS",Screen says call for service tried rebooting!,Constant Key Press,ST3425049
+"Had SS Mathew cycle power, oven now warming.",Says warning constant key press detected. Call service support,Constant Key Press,ST11745012
+"Cook count: 113735
+
+Power cycled oven, tested oven, downloaded error log.
+
+Oven operating nominally
+
+Closed with FCC @ 1945 PST",Constant key press detected call service support,Constant Key Press,ST11745015
+"Samantha Said she could order plate herself 
+No service call needo
+
+Closed with FCC at 1148pst",Right Oven tray needs replacement,Accessory,ST11745017
+"Right 
+Cook Count 146901
+
+Intermittent door open.
+
+Oven in use upon my arrival.
+New door seal.
+Observed partners letting door slam shut, door recoil may be causing fault.
+
+Inspected door switches, adjusted primary switch to maximum action.
+Tested multiple door cycles, saw no issues.
+Cleaned EC and covers.
+Ran system tests.
+Suggested to SS to revise how to close door to prevent recoil.","Door does not register close properly and displays ""Door Open"" message",Close Door Error,ST11745019
+"Oven: 2006213090265
+Cook Count: 184112
+Voltage: 208V
+Mag Amps: 
+Left: 8.3A
+Right: 8.6A
+Heater Amps: 10.6A
+ 
+Issue: Air Filter message 
+ 
+Resolution: Found filter was slightly bent not allowing complete contact with switch, removed panel and inspected & tested switch, operating normally, flattened filter, cleaned filter. Tested oven. 
+
+Oven operating nominally",Continues to mot register air filter as properly placed. Inconsistent temperatures as a result.,Air Filter Error,ST11745021
+"Oven: 2006213090265, Right 
+Cook Count: 214388
+Voltage: 207V
+Mag Amps: 
+Left: 8.2A
+Right: 8.8A
+Heater Amps: 10.7A
+ 
+Issue: E104 error
+ 
+Resolution: Oven in use when i arrived. Watched multiple items being cooked successfully. Inspected & tested oven, cleaned air filter, reloaded firmware & menu, ran recommission tests, all passed. Could not duplicate customer complaint.
+
+Oven operating nominally",Overheat error,104 Mag/Cavity Overheat Trip,ST11745023
+"Oven: 2006213090264, Left 
+Cook Count: 136587
+Voltage: 208V
+Mag Amps: 
+Left: 8.3A
+Right: 8.5A
+Heater Amps: 10.9A
+ 
+Issue: E106 error 
+ 
+Resolution: Oven in use when i arrived. Watched multiple items being cooked successfully. Inspected & tested oven, cleaned air filter, reloaded firmware & menu, ran recommission tests, all passed. Could not duplicate customer complaint.
+
+Oven operating nominally",Overheat error,106 Cavity Overheat,ST11745024
+"The right oven is showing a warning label, and not allowing anything to be heated, because it says there is a constant key press happening. Started: today at 3:40pm Have tried to turn it off, and it will turn off but it gets stuck in calibration and doesn't go any further than that.
+
+Called store and asked to unplug and re-plug. Oven is now working fine.","The right oven is showing a warning label, and not allowing anything to be heated, because it says there is a constant key press happening. Started: today at 3:40pm Have tried to turn it off, and it will turn off but it gets stuck in calibration and doesn't go any further than that. Called store and asked to unplug and re-plug. Oven is now working fine.",Constant Key Press,ST11745026
+"Oven Type + side 2006213090265 R
+Cook Count 237847
+Faults EF
+Voltage 209
+Amperage 16.8
+Heater Amperage 10.7
+
+Issues Found:
+•Oven in use upon my arrival. Partners unaware of any issues.
+•QTS has excessive play.
+•
+
+Resolutions:
+•Shimmed QTS with foam packing.
+•Lubed hinges.
+•
+
+Tested Unit, All test pass with 0 faults.",Door says open when still closed,Close Door Error,ST11745027
+"Right oven
+CC 267226
+208v
+No errors 
+
+Oven in use on arrival 
+Mags at 8.3, 8.4
+Sausage sandwich in fridge temp was 42
+Could not duplicate customer complaint",Customers have called to say food is not cooked thoroughly,Food Not Cooking Properly,ST11745030
+"Oven: 2006213090264
+Cook Count: 187057
+Voltage: 208V
+Mag Amps: 
+Left: 8.4A 
+Right: 8.5A
+Heater Amps: 10.6A
+ 
+Issue: Air filter error
+ 
+Resolution: Found air filter switch loose. Tightened bracket nut, ran recommission tests, all passed. 
+
+Oven operating nominally","Both ovens display a message saying the air filter is removed despite being in place. They will both sometimes display the message in the middle of warming, resetting the food",Air Filter Error,ST11745035
+"Oven: 2006213090265, Right
+Cook Count: 354287
+Voltage: 208V
+Mag Amps: 
+Left: 8.7A
+Right: 8.9A
+Heater Amps: 10.8A
+ 
+Issue: Constant Keypress 
+ 
+Resolution: Power cycled oven, ran recommission tests, all passed.
+
+Oven operating nominally",Constant key press detected,Constant Key Press,ST11745038
+nan,Warning constant key press detected call service support,Constant Key Press,ST22716019
+"Completion Comments
+New Oven 1
+Serial Number:2007213090045
+Guardian Serial:0006332020
+Tested: GOOD
+ 
+LED 4 not on. Ran Scenario 4 procedure, Ethernet connector was loose. LED4 lighting.
+Reset D&T.",“Follow troubleshooting guide to determine why the guardian module isn’t working correctly. This will ultimately be the trouble shooting guide they send to the stores. We are being asked to see if this guide will be easy to follow for their partners.”,Menu Issue,ST10348011
+"Had SS Kevin cycle power, oven now warming.","Oven screen reads ""release touch screen to begin calibration"" and it does not let us by pass it then a warning sign comes up but nothing happens when we touch the screen. We tried to turn oven off and back on and the same thing happens.",Constant Key Press,ST10348015
+"Called spoke with manager Chris, had him to check air filter for bends, air filter bent, had Chris bend airfilter straight. This fixed the issue.
+
+Closed with FCC at 1220PST",Oven does not turn on or start to heat up before the air filter removed sign displays,Air Filter Error,ST10348016
+"Had store unplug the oven, wait 30 sec and plug it back it. now working",Oven wont start to heat up and touch screen does not respond,Overheating,ST10348017
+"power cycle, oven warming","Oven doesn't let us click on it and there is a message that says, ""constant key press detected. Call service support"" tried turning it on and off, but it is still giving the same message on the screen.",Constant Key Press,ST10348018
+"Left Oven
+Cook Count: 144045
+Faults: None 
+Voltage: 208(211)
+Amps: Right: 8.3
+             Left: 8.5
+Heater Amps: 10.3
+
+Issue: Oven in use upon arrival. Unable to verify complaint.
+
+Resolution: Unable to verify complaint. 
+
+Tested bacon bites we in 35⁰ cold and came out 182⁰ hot.
+
+Closed with FCC at 1445PST",Right oven Oven temperature is inconsistent and is not warming sandwich to temperature.,Food Not Cooking Properly,ST10348022
+"Called and spoke with Elizabeth, the oven is reading constant key press detected. Had her power cycle the oven. This fixed the issue. 
+
+Closed with FCC at 1318PST","It reads ""Warning constant key press detected call service request",Constant Key Press,ST10348030
+"Error message on oven will not cook ""says constant key press detected
+
+
+Advice store to trouble shoot, oven is now working","Error message on oven will not cook ""says constant key press detected Advice store to trouble shoot, oven is now working",Constant Key Press,ST10348033
+nan,"The ""door is open"" sign is showing on the oven even though the door is closed Door keeps saying ""door open"" and also has a burnin smell that won't go away",Close Door Error,ST10348037
+"Removed 
+Left NGOD29185
+Install 
+Left 2007213090178
+Lt mag 8.
+Rt mag 8 
+Loaded menu, date
+Module sn 0008902010
+
+Removed 
+Right ngo29176
+Install 
+Right 2007213090183
+Lt mag 8.5
+Rt mag 8.5
+Loaded menu, date
+Module sn 0008222010","***DUAL MERRYCHEF Oven Replacement*** $516 for install, $100 for disposal, $616 total PO Please schedule w/ store before tech arrival to complete install Job: remove then dispose offsite old oven Install two new MERRYCHEF ovens Report back all serial numbers removed and serial numbers installed PHOTO OF OVEN PLACEMENT NOW REQUIRED! Completion Comments New Oven 1 Serial Number: Guardian Serial: Tested: GOOD New Oven 2 Serial Number: Guardian Serial: Tested: GOOD Old oven serial #s: PO #811019",101 Magnetron Failure,ST24503015
+"Replaced cable, tested oven.
+
+Oven operating nominally.
+
+Dispatch please close","Replacement of data cables from the KCCM Module to SRB required. Firmware Update required as well. Parts and Firmware USB have been shipped to the Market. This has a required completion date of 6/09/21. Instructions for cable swap attached in procedures as well as with parts package. Cable tags and ties are not included, fill out information on printed instruction sheet included in parts kit. Cables will need to be returned to Turbo Technicians Addison office, return label enclosed with",Menu Issue,ST24503016
+"Cook count: 102979
+
+Oven in use when I arrived. Occasionally says door open when closed.
+
+Adjusted SW1, tested oven, downloaded error log.
+
+Oven operating nominally
+
+Closed with FCC @ 1730 PST","Were open from 5am-close everyday except for thanksgiving, and our hours for thanksgiving is 5am-5pm. Door does not registered as closed",Close Door Error,ST24503020
+"Oven: 2007213090178, Left
+Cook Count: 160252
+Voltage: 208V
+Mag Amps: 7.
+Left: 7.5A
+Right: 7.7A
+Heater Amps: 10.9A
+ 
+Issue: Making strange noises.
+ 
+Resolution: Oven in use when I arrived. Tested & inspected oven, could not duplicate customer complaint.
+
+Oven operating nominally",tubochef left oven making a weird noise does not heat up qr:7290275185 sn:2007213090178 sh: 5am-10pm kb: 1454,Loud Noises,ST24503027
+"Oven: 2007213090178, Left
+Cook Count: 199964
+Voltage: 208V
+Mag Amps: 
+Left: 7.8A
+Right: 8.0A
+Heater Amps: 10.9A
+ 
+Issue: Door open error
+ 
+Resolution: Oven in use when I arrived, found that SW3 needed adjusting.
+Adjusted SW3, ran recommission tests, all passed.
+
+Oven operating nominally.",Left oven keeps saying the door is open when it is closed.,Close Door Error,ST24503030
+"Found door skin bolts loose making contact with filter guard. 
+Tightened and adjusted door. Tested unit: working within manufacture specifications","Door does not close on its own unless we push it close. Also, it sometimes makes a weird electric noise when it cooks. It is gonna be the left oven. It started probably last Friday.",Door Issue,ST24503032
+"Called spoke Steph, oven reading constant key press detected. Had her power cycle the oven, this fixed the issue.
+
+Closed with FCC at 1105PST","called the store to turn off and unplug it, store said they already did it but having the same error The left oven has a warning on it. And no buttons work. It says warning. Constant key press detected.",Constant Key Press,ST24503035
+nan,Welbilt billing 26412301,101 Magnetron Failure,ST24503038
+Replaced the cable ensuring the oven was online and working properly. Tech left the oven online and working properly.,"Replacement of data cables from the KCCM Module to SRB required. Firmware Update required as well. Parts and Firmware USB have been shipped to the Market. This has a required completion date of 6/09/21. Instructions for cable swap attached in procedures as well as with parts package. Cable tags and ties are not included, fill out information on printed instruction sheet included in parts kit. Cables will need to be returned to Turbo Technicians Addison office, return label",Menu Issue,ST27975013
+"Tech Arrive to the site found impinger plate felt off
+Tech proceed to re adjust the impinger plate back to place
+Procedures multiples times and oven is working to the manufacturer specs",The top of the inside of the oven came off.,Upper Impinger Plate,ST27975033
+nan,Welbilt billing 26261577,101 Magnetron Failure,ST9449029
+"RightE2S 
+
+Faults 
+0
+
+Volts
+208
+
+Amps
+R-8.4
+L-8.3
+
+Heater Amps 
+10.9
+
+Checked EC , air filter error , air filter not seated properly 
+
+Properly positioned air filter , tested unit all tests passed with zero faults 
+
+Raphael",Right oven does not recognize the filter that is there. Tried to swap the filter with the left oven but still doesn't recognize the filter. Cleaned the filter and around the vent. Because the oven doesn't recognize the filter it is unable to cook anything for the proper amount of time.,Air Filter Error,ST9449032
+"Right Merrychef 
+208
+8.4,8.4 
+10.7 amps 
+No faults 
+
+Notes 
+Impinger plate fell down 
+Reinstalled impinger plate 
+All tests pass",Top tray is disattaching from top part of oven,Tray/Peg Issue,ST587005
+*Advised store to unplug the oven and plug it back in. Oven is working fine now.,"*Advised store to unplug the oven and plug it back in. Oven is working fine now. Right oven has an error message that reads ""WARNING CONSTANT KEY PRESS DETECTED. CALL SERVICE SUPPORT"" Turned on but not fully warmed, and we are unable to cook anything.",Constant Key Press,ST587006
+"Message reads- constant key press detected call service support x:329 y:237
+
+Called store and advised to unplug. oven working fine now",Message reads- constant key press detected call service support x:329 y:237 Called store and advised to unplug. oven working fine now,Constant Key Press,ST587007
+"Mod Catherine 
+
+Right Merrychef 
+Sn#2008213091155
+
+208 vac
+8.3,8.3 amps 
+10.8 amps 
+No errors 
+
+Notes 
+Constant key press and loose door handle found 
+Reset oven and tightened handle 
+all tests pass",Constant key press detected message,Constant Key Press,ST587009
+"Mod Kaitlyn
+Right Merrychef 
+208 vac
+8.2,8.3 amps 
+10.8 amps 
+Constant keypress 
+
+Notes 
+Reset oven",Oven has error code. Is not working,Constant Key Press,ST587010
+"Mod Camry
+Merrychef 
+208 vac
+8.3,8.3 amps 
+10.9 amps 
+ E086 Error
+
+Notes
+Tech found e086 ambient overheat error 
+Oven is currently working 
+All tests pass could not duplicate at this time",The right oven is displaying an Ambient Overheat warning. The ambient temperature of the store was below 75 degrees and the air filter was removed and cleaned. The warning still continued to display after a restart.,103 Ambient Overtemp,ST587016
+"Completed w FCC 9/10/21 @554am
+
+Notes 
+Unplug oven and plug back in 
+Issue resolved
+Inspected for damage 
+No damage to overlay 
+All tests pass","Oven says ""constant key press detected call service support",Constant Key Press,ST6783012
+"Merrychef 
+208
+8.3,8.3amps 
+10.6 amps 
+E107 comm error 
+
+Notes 
+Already updated menu but tech 
+Uploaded new menu anyways on both ovens 
+
+All tests pass",Oven not updated to summer 2,Menu Issue,ST6783015
+"Left oven Merrychef 
+8.3,8.3 amps 
+10.6 amps 
+Open door 
+
+Notes 
+Open door error 
+Tech found food stopping door from closing sometimes 
+Adjusted door switch 
+All tests pass","Left side oven displays ""oven door open"" error even though the door is closed. It is an intermittent issue and is starting to appear more often.",Power Supply,ST6783016
+"208v
+
+8.00 amps each mag circuit 
+17.00 amps mags combined 
+
+10.0 amps heater 
+
+0 faults 
+
+Unit display issue 
+
+Upon inspecting unit found that the display was loose and causing the screen to shift down. 
+
+Tightened all loose mounting screws. 
+
+Adjusted display to be centered. 
+
+Tested unit all test passed at 0 faults 
+
+All oven functions working properly","Oven works fine, but the display jolted inside. Oven door seems to be more sensitive than the other door in that it slams easily which is why it may have jolted around.",tool,ST6783019
+"Merrychef 
+208 vac
+8.3,8.3 amps 
+10.7 amps 
+No errors 
+
+Notes
+All tests pass removed the washers and wiped grease off overlay 
+Display is working properly Al tests pas",Oven touch screen slow to respond,Display Issue,ST6783021
+"208v
+
+8.00 amps each mag circuit 
+17.00 amps mags combined 
+
+11.00 amps heater 
+
+Unit door issue 
+
+Upon inspecting unit found that the door was closing but switch not fully recognizing. 
+
+Oven door switches needed an adjustment 
+
+Adjusted all switches 
+
+Tested unit all test passed at 0 faults 
+
+All oven functions working properly","The oven door opens and closes but after closing it still shows that the door is open, followed by the beeping after the door has been ""open"" for some time. Requires very firmly shutting the door before the message disappears and it reads as closed again.",Close Door Error,ST6783022
+Mag warranty,"Left oven stopped functioning and is giving an error code with message: ""OVERHEAT STATS RELEASED"". We have already turned it off to cool down and it worked for less than 20 minutes before giving same error code. Error code: E104 Serial number:2010213091303 Model: eikon e2s star UI VER: V 005.000.005 SRB VER: V 005.000.000",104 Mag/Cavity Overheat Trip,ST6783026
+"208v
+8.00 mag amps each
+
+Unit heat err 
+Upon inspecting unit found that the unit was unable to warm up and reading code 104 temp issue. The unit overheated and caused the temp reset button to trip. Reset button. Ran oven to temp. Tested unit oven working as normal.",*as per store oven is giving error code E104. SN verified E104 sh: 4am-11pm,104 Mag/Cavity Overheat Trip,ST55319018
+"Left E2S
+2011213090689
+
+Broken door handle
+
+Left Mag. 8.2
+Right Mag 8.4
+
+Checked EC, tightened screws, added loctite, tested unit, all functions working properly.
+
+Rebecca",It seems like handle got unscrewed somehow from the inside.,Broken Door Handle,ST55319021
+"Completed 3/29/2022
+
+S/N#2011213090689
+
+L amps—8.5
+
+R amps—8.6
+
+Heaters—10.5
+
+Faults—constant key press
+
+Unplugged the oven then plugged it back in",CONSTANT KEY PRESS ERROR TREID CALLING STORE TO HAVE THEM UNOLUG NO ANSWER 9513717275,Constant Key Press,ST55319024
+"LeftE2S 
+
+Faults
+0
+
+Volts
+208
+
+Amps
+R8.3
+L-8.2
+
+Heater Amps 
+10.9
+
+Checked EC , oven needs new cook plates tech has spoken to manager on 2 occasions about ordering plates and no order has been made plates are becoming worse.
+
+Tested unit all tests passed with zero faults 
+
+MOD",Oven began making loud electrical cracking noise when warming.,Loud Noises,ST55319026
+"LeftE2S 
+
+Faults
+0
+
+Volts
+208v
+
+Amps
+R-8.5
+L-8.5
+
+Amps
+11
+
+Checked ec, display housing missing screw
+
+Replaced screw and updated menu , tested unit all tests passed with zero faults 
+
+Deleah",I believe its missing a screw needs to be fixed asap,Cavity,ST55319027
+"208
+
+8.00 amps each mag circuit 
+17.00 amps mags combined 
+
+10.00 amps heater 
+
+Faults 0 
+
+Upon inspecting unit found that the screen froze on constant key press 
+
+Unit reset. 
+Calibrated screen. 
+
+Loaded menu to current 
+
+Tested unit all test passed at 0 faults 
+
+All oven functions working properly",Oven wont cook and just displays this message constay key press,Constant Key Press,ST55319030
+"LeftE2S 
+
+FaultS
+0
+
+Volts
+208
+
+Amps
+R8.4
+L-8.4
+
+Heater Amps 
+10.9
+
+Checked EC , constant Key Press 
+
+Restarted unit and calibrated screen, tested unit all tests passed with zero faults 
+
+Alai",NW Oven door wont fully close,Close Door Error,ST55319031
+"208v
+
+8.00 amps each mag circuit 
+17.00 amps mags combined 
+
+10.00 amps heater 
+
+Faults 0
+
+Unit impinger issue 
+
+Upon inspecting unit found that the impinger plate fell down. 
+
+Remounted impinger plate. 
+
+Tested unit all test passed at 0 faults 
+
+All oven functions working properly",Top of oven came off screws,Upper Impinger Plate,ST55319032
+No service rendered service declined,Food is not cooking to temp on the left oven.,Food Not Cooking Properly,ST55319043
+"208v
+
+Left oven 
+
+8.00 amps each circuit 
+17.90 mag amps combined 
+
+10.00 heater amps 
+
+Faults 
+E-104
+
+Upon arrival oven working as normal 
+
+Inspected unit for any signs of malfunction 
+
+Store had a remodel and oven was moved around and caused the hi limit to trip. 
+
+All oven functions working as normal. 
+
+Loaded menu to current summer 24",ERROR CODE E104. Trouble shooting did not work.,104 Mag/Cavity Overheat Trip,ST55319045
+"Left Oven
+2011213091108
+Constant Key Press Detected 
+208 Vac
+
+Reset Computer
+(Unplug & Plug Back Oven)
+
+Left Mag - 8.2 Amps 
+4 Seconds
+Right Mag - 8.4 Amps 
+3 Seconds
+
+Heater - 10.5 Amps","""warning constant key press detected - call service support"" message",Constant Key Press,ST10005013
+nan,Display reads: warning constant key press detected & call service support,Constant Key Press,ST10005015
+"Left MerryChef E2S
+
+2011213091108
+
+208V
+
+Faults -E104
+
+Amps-16.0 
+Left Circuit-7.8 
+Right Circuit-8.0
+Heaters-10.8
+
+Couldn’t reproduce any errors. 
+Manager said both ovens gave the same error message at the same time,after a short power outage.
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly 
+Cooling fans working properly 
+Air filter cleaned and positioned properly",Error message https://s00332safocwpr.blob.core.windows.net/stores/10005/10005-202205091423-15D49BE5-378C-44E6-9A76-58C3144C1A83.jpeg?sv=2019-12-12&sr=b&st=2022-05-08&se=2022-08-07&spr=https&sp=r&sig=x0qtB3%2Fl%2FDrN8GziTkCWloMRnwe1U9Sk5PjEEXSnp0U%3D,104 Mag/Cavity Overheat Trip,ST10005017
+"Left MerryChef E2S
+
+2011213091108
+
+208V
+
+Faults -E086
+
+Amps-16.7
+Left Circuit-8.4
+Right Circuit-8.2
+Heaters-10.9
+
+SW door switch loose, not making good contact.
+
+Positioned and then tightened all door switches in proper sequence.
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly 
+Cooling fans working properly 
+Air filter cleaned and positioned properly",Door consistently displays door open message when closed,Close Door Error,ST10005018
+"Left MerryChef E2S
+
+2011213091108
+
+208V
+
+Faults -E086
+
+Amps-16.4
+Left Circuit-8.2
+Right Circuit-8.2
+Heaters-10.9
+
+Missing screw from display to frame. 
+
+Replaced missing screw 
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly 
+Cooling fans working properly 
+Air filter cleaned and positioned properly",Oven screen is slanted a bit and harder to touch food items. Left dt oven. Issue started 8/16/22,Menu Issue,ST10005019
+"Left MerryChef E2S
+
+2011213091108
+
+208V
+
+Faults -E087
+
+Amps-17.4
+Left Circuit-8.8
+Right Circuit-8.8
+Heaters-10.9
+
+Long key press detected 
+
+Reset oven by unplugging it, calibrated touchscreen. Stirrer working properly, Cooling fans working properly, Air filter cleaned and positioned properly. Checked EC, test unit, all test pass without faults.",Display not working screen requested service,Control,ST10005025
+"Oven not working because of display
+
+Advice store to trouble shoot, oven is now working","Oven not working because of display Advice store to trouble shoot, oven is now working",Constant Key Press,ST10005032
+"Left MerryChef E2S
+
+2011213091108
+
+208V
+
+Faults -E087
+
+Amps-17.0
+Left Circuit-8.5
+Right Circuit-8.5
+Heaters-10.8
+
+Constant key press detected 
+
+Preformed oven start up and calibrated touchscreen.
+
+Stirrer working properly, Cooling fans working properly, Air filter cleaned and positioned properly. Checked EC, test unit, all test pass without faults.",Screen not working and is frozen,Display Issue,ST10005034
+"MerryChef E2S
+
+2011213091108
+
+208V
+
+Faults-E086
+
+Amps-17.5
+Left Circuit-8.7
+Right Circuit-8.7
+Heaters-10.8
+
+Arrived at 7a. Spoke with manager Andrea. She said the food is not warming properly. She didn’t want me to look at oven at this time because of peak. She said she will make a new ticket at another time. 
+
+Stirrer working properly, Cooling fans working properly, Air filter cleaned and positioned properly. Checked EC, test unit, all test pass without faults.",Warming not consistent,Food Not Cooking Properly,ST10005038
+"208v
+8.00 mag amps 
+17.00 amps mags combined 
+10.00 heater amps 
+
+Unit door issue 
+Upon inspecting unit found that the door switches were closing but needed adjustment for them to close properly all the way. Adjusted all switches. Tested unit all test passed at 0 faults",Door sensor can't tell that it is closed,Close Door Error,ST23315020
+"Left MerryChef E2S
+
+2112130969
+
+208V
+
+Faults -E086
+
+Amps-17.0
+Left Circuit-8.5
+Right Circuit-8.5
+Heaters-10.8
+
+Door handle loose
+
+Tightened door handle 
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly 
+Cooling fans working properly 
+Air filter cleaned and positioned properly","23315, deon shift phone # 5629889304 store hours 6 am to 10 pm pt asset tag id 7290282141 left oven the handle is loose on the oven and needs to be secured also the oven has shocked partners multiple times and this is a safety concern Merrychef E2S Ovens - All Issues KB0012272",Loose Door Handle,ST23315024
+"Left MerryChef 2011213091169
+
+208V
+
+Faults zero
+
+Amps-16.9
+Left Circuit-8.4
+Right Circuit-8.5
+Heaters-10.8
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly 
+
+Upon arrival some people saying oven counter has shocked them and some people saying they have no idea what they are taking about 
+Tested unit carefully for anything causing it to shock anyone 
+Couldn’t reproduce shocking 
+Door switch needing adjustment 
+Adjusted door switch 
+All test passed without any faults",Electrocuted partner,Loose Door Handle,ST23315025
+nan,Welbilt billing 26287829,Overheating,ST23315027
+"Button malfunction. System display says to contact for service report
+
+
+Advice store to trouble shoot, oven is now working","Button malfunction. System display says to contact for service report Advice store to trouble shoot, oven is now working",Constant Key Press,ST23315028
+"Mod:Justin 
+Brand: left Merrychef 
+Sn#2011213091169
+Main power:208v
+Heater Amps:10
+Mag Amps:8.4,8.4
+
+Notes:
+Tech found loose bolts on convection motor causing gasket not to seap propely allowing grease to seap from cracks and crevices 
+Tech tightened down bolts and resecured gaskets and cleaned side panels 
+All tests passed",Damaged casing and intake fan. It is burning partners. Left oven.,Upper Impinger Plate,ST23315032
+"Left MerryChef E2S
+
+2011213091169
+
+208V
+
+Faults-E087
+
+Amps-17.7
+Left Circuit-8.8
+Right Circuit-8.8
+Heaters-10.7
+
+Constant key press detected.
+
+Preformed start up and calibrated touchscreen. Stirrer working properly, Cooling fans working properly, Air filter cleaned and positioned properly. Checked EC, test unit, all test pass without faults.",Left warming oven constant key press,Constant Key Press,ST23315037
+"Customer complaint complaint: paper caught fire in oven
+
+On arrival customer using unit opened oven found cook plate burned customer is going to order two cook plates and set a new call when they arrive there using both ovens",One of the warming papers completely burned. I didnt see a fire when i opened the oven door. The edge of the tray and little leg look pretty damaged.,Tray/Peg Issue,ST23629009
+"New oven #1 (R)
+SN: 2101213090424
+Guardian SN: 0003342033
+Test: Good 
+Mag: 7.9/8.2
+
+New oven #2 (L)
+SN: 2101213091465
+Guardian SN: store only received 1 guardian module, installed on R oven. 
+Test: Good
+Mag: 8.1/8.4
+
+Old Oven SN: 
+NGOD46371
+NGOD50468 (Paulette’s oven)","***DUAL MERRYCHEF Oven Replacement*** Arrival date 3/10 $700 for install, $90 for disposal Total PO 790.00 Remove loaned bottom blower on SN: NGOD13790  Please schedule w/ store before tech arrival to complete install Job: remove then dispose offsite old oven Install two new MERRYCHEF ovens Report back all serial numbers removed and serial numbers installed PHOTO OF OVEN PLACEMENT NOW REQUIRED! Completion Comments New Oven 1 Serial Number: Guardian Serial: Tested: GOOD New Oven 2 Serial Numb",101 Magnetron Failure,ST13604008
+Found oven with loose SW3. Tightened and repositioned SW3. Mag amps 8.7/8.7. Oven operational and back in normal use.,Oven saying door open even when its closed,Close Door Error,ST13604014
+nan,Welbilt billing 25945136,101 Magnetron Failure,ST13604016
+nan,Welbilt billing 26059485,Overheating,ST13604019
+nan,Welbilt billing 26277740,101 Magnetron Failure,ST13604021
+nan,Welbilt billing 26513989,Overheating,ST13604023
+Mag warranty,Megntron error,101 Magnetron Failure,ST13604025
+"No issue found with oven. However, the store’s food is frozen (30F). Picture attached of temp. Mag amps 7.7/8.4. Oven is operational and back in normal use.",Not warming food correctly,Food Not Cooking Properly,ST13604032
+Oven has significant arcing damage to frame. Oven will need to be replaced. FSM notified.,Making very scary noises,Loud Noises,ST13604035
+"Frank Miller 
+
+Customer called saying oven over heated
+
+Tech could not recreate an issue oven is operational 
+
+Tech spoke with manager and told them to alternate ovens during rush 
+
+Oven is operational 
+
+All components work as intended 
+
+16amps@208vac",Error code on oven,104 Mag/Cavity Overheat Trip,ST29771020
+Hard reset resolved the board’s issue,Warning....constant key press detected. Call service support,Constant Key Press,ST8119011
+"Mark
+
+Reported problem: door handle 
+
+I reattached the handle, the bolts are tight and shouldn’t come undone.",They just put a new door on less than a week ago (ticket #22596547) and the handle is falling off. Needs to be reattached.,Broken Door Handle,ST8119014
+"Touch screen re-calibrated.
+No faults on the oven.
+FCC 11:20 AM CST",*constant key press detected See error message photo below.,Constant Key Press,ST8119010
+SN Match - they left the paper on the oven and used fire extinguisher which caused the issue - tech clean the oven. no parts needed. THIS IS A MERRYCHEF NOT A TURBOCHEF . THE SERIAL # 2102213092019,"Store# 10374, Kastor, shift, in a fire in the right oven, had to use the fire extinguisher. The partner says the fire was behind the compartment where food goes not accessible. The partners have turned the oven off for safety. Fire dept. was not called. Partner says she believes this oven caught on fire a few days ago as well. No trbl shooting. Store hours: 5 am - 10 pm.",Loose Door Handle,ST10374010
+Bad touch screen. Replaced and tested good,"Alex SHIFT, Merrychef oven is giving a constant key press error Tried a soft reset, error still appeared Tried a hard reset and the error still appeared KBA: Merrychef E2S Ovens - 1456 SH: 5AM - 10PM Tried to reset the oven but the error came back",Constant Key Press,ST10374012
+Found heaters not working checked everything. Changed SRB board every things works great. Tested good,"Error message saying ""Heater Failed"", will not cook.",102 Heater On Without Request,ST10374014
+"tech was on site and re booted the unit and it works as it should now
+# 5022633009","Left oven displaying error code ""Warning: constant key press detected. Call service support"" Will not work. Advice store to trouble shoot, still having the same issue",Constant Key Press,ST10374015
+Found a cut in door gasket . Gasket not dry rotted still plyable. Also door handle missing one bolt and falling off. Replaced bolt and tightened handle. Told manager to not open door or turn oven on for 4 hours.,The black matting that covers the oven is bubbling and melting away on the side of the oven door. It smells like burning plastic/gas and the silver metal is exposed. This area of the oven is hotter than the rest to the touch. This is happening on both sides of the oven but to a lesser degree on the left hand side.,Overheating,ST10374016
+"Replaced door seal. Put tape on Door ""do not use until 6pm"" SEAL APPEARED TO HAVE BEEN CUT IN UPPER RIGT HAND SIDE AREA",Sides of oven door are melting,Door Gasket/Seal,ST10374017
+"Replaced worn door hinges, Switch kit, HV Capacitor left side and three 20amp fuses.",The oven states that the door is open even when closed. Forced shutdown because even restarting the oven makes it state that the door is open.,Close Door Error,ST10374019
+Found bad magnatrons replaced tested good,Displaying magnetron failure intermittently,101 Magnetron Failure,ST10374020
+Replaced SRB Board and cook plate. Tested good. Cook plate burnt thru but stubs are new,Error Code heater failed,116 Heater OFF on Request,ST10374024
+Found bad mag thermal then got E116 had to replace SRB Board also. Tested good,Overheating error; nonfunctional,104 Mag/Cavity Overheat Trip,ST10374027
+Door hinges worn out. Replaced and tested good,"Kastor, shift supervisor, oven door is not closing all the way has a gap and sparking between oven and door itself. KB0012272 Asset: 7290081808 Serial: 2102213092019 Hours: 5am to 10pm Monday through Thursday",Door Issue,ST10374028
+Checked left magnetron 9.8 amp right magnetron 9.1 amp draw at 208 volt. Removed covers found nothing burning. Everything looks fine,After turning on and using the oven twice it had a very strong burning plastic smell which i know is indicative of an electrical fire/ blown transformer. It was turned off immediately and nothing was noticed to be burning/damaged that we could observe from the outside.,Foul Odor,ST10374029
+Replaced door gasket. Clip at bottom corner pulled apart. Door gasket still pliable appeared fairly new,Gasket loose in multiple places on door.,Door Gasket/Seal,ST10374030
+Replaced upper impingement plate.,Metal plate on top of oven is beginning to fall off and is hanging down exposing the top of the oven,Upper Impinger Plate,ST10374031
+Replaced blown fuse. Mag ampreage draw good. No other problems found,"Kat, SSV, called in because their MerryChef oven is stuck on the door is open screen but the door is closed and there are not any gaps in the door. Asset Tag: 7290081808 Store hours: 5a-10:30p KB0012272",Close Door Error,ST10374032
+Found Left magnetron open filament only drawing 4.0 amps. And HV Capacitor left side swelled up and leaking. Replaced all tested good,Error in picture below. Magnetron failed,101 Magnetron Failure,ST10374033
+Replaced outer door.,Coating on oven door appears to be melting,Foul Odor,ST10374034
+The initial problem stated the oven was vurning wax paper. Upon arrival i found the oven to have a “clean cavity” warning on the screen. The crew member had cleaned the inside of the unit prior to my arrival. I clean the screen filter and tested. Unit tested fine.,The oven keeps burning the wax paper,Paper Burning,ST10374038
+Nodule is connected. No automatic menu update. I manually updated to new menu via stick drive. Told manager to contact I.T.,"Oven will not connect to wifi and will not update, it is two updates behind",Menu Issue,ST10374039
+Found door switch not clicking at all. Replaced both sets of switches. Unit tested good.,Prompting 'oven door open' notification when oven door is closed completely.,Close Door Error,ST10374042
+Could not duplicate issue. Tested product. 34 degrees before heating. 202 degrees afterwards. Seems they where trying to cook frozen food. I explained the product temp prior to cooking. Unit tested great.,"Is not cooking food long enough, will pull out a sandwich that is cold in the middle",Food Not Cooking Properly,ST10374044
+Found module is powered up and online. Manually updated unit via USB. Unit tested good.,"Ashley, SM. Issue/Concern: It won’t update to the spring | stuck on the winter | unable to download the recipes | they try the manual update |they did not coordinate. Resolution: Create Service Request KBA: Merrychef E2S Ovens - All Issues / KB0012272 Store Hours: 5:00am-10:00pm Sun-Thu 5:00am-10:30pm Fri-Sat Phone Number: 8592780606 Asset tag: 7290081808 OCR: N/A",Menu Issue,ST10374045
+Upon arrival i was showed a video of the issue(extremely helpful). Found the cook plate and stubs burnt really good. Replaced both. Unit tested great.,When trying to heat a food item it makes an bad electrical buzzing noise,Loud Noises,ST10374046
+"Found unit showing constant key press, more than likely due to nailed screen touches. Advised to associate if this happens in the future to unplug oven for a few seconds to reset it. After reset unit woks fine, all oven functions tested to be within specs.
+
+
+Closed call with FCC.",CONSTANT KEY PRESS DETECTED CALL SERVICE SUPPORT,Constant Key Press,ST9932011
+"Shimmed screen to clear constant key press detected error, also handle was loose, tightened up screws,
+
+Tested all oven functions and meets all manufacturers specs.
+
+Completed in FCC","Store 9932 Shift: Shelby Langrehr Hours: 5am - 10:30pm Oven is showing a message saying ""constant key press detected"" we've tried to turn it on and off but it still shows the message.",Constant Key Press,ST9932012
+Checked oven functions and found the limit button in the back tripped. Also I uploaded the new menu as it was in spring. Tested all other oven functions everything working good. Also he other oven upload menu.,Store #: 9932 Shift: Shelby Langrehr Hours: 5a - 10:30p Both the ovens have an inconsistent heating time. The food is not properly warming up and customers have said their food wasn't warm enough. https://s00332safocwpr.blob.core.windows.net/stores/9932/9932-202205100419-7531B4CF-D257-4868-88AA-4B7BE9822DDA.jpeg?sv=2019-12-12&sr=b&st=2022-05-09&se=2022-08-08&spr=https&sp=r&sig=%2FX202H21hwaleVoQkpusKxvI9AwYwwF47KW2S%2BK7LcY%3D,Loose Door Handle,ST9932014
+Arrived onsite and was unable to replicate reported issue. Oven was warmed and in use upon arriving. Oven components were tested; Magnetrons were ramping up as normal with 7 amps stemming from each mag. Test cooked a couple of food items (Bacon Gouda sandwich (2x bacon Gouda sandwiches and a butter croissant) and they cooked with no issues or interruptions. Shift on duty advised that the issue rarely occurs.,Error display on the oven. Will not function after the error display pops up,101 Magnetron Failure,ST9932016
+Called store and asked to unplug and re-plug. oven is now working fine.,Oven is locked up and will not operate.,Constant Key Press,ST9932027
+"5-29-24
+Constant key press
+Power cycled the oven; recalibrated the touchscreen; Performed a recommission test, a function test, a magnetron leak test and the oven performed properly. The oven heated up to cooking tempreture. The oven heated up to cooking tempreture. 
+A. Tucker",Constant key press detected . We can't clear the code.,Constant Key Press,ST9932031
+"208/
+Door and filter ok 
+LM 8.4
+RM 8.2
+H 10
+BF ok
+RF 10-100
+
+Dirty EC clogged vents causing over heating loose Displaying error message on touch screen
+
+Tested unit and all test passed recalibrated screen",Displaying error message on touch screen. See photo,102 Heater On Without Request,ST27294006
+nan,"Its broken wont heat called the store, provide instruction to turn off and unplug it. store already did it and still the same problem",Constant Key Press,ST27294009
+"RightE2S
+
+Faults 
+0
+
+Volts 
+208v
+
+Amps 
+R-8.5
+L-8.5
+
+Heater amps 
+10.5
+
+Checked EC , arching
+
+Oven has slight arching . Advised partner to order cook plate , tested unit all test passed with zero faults",Sounds like an old microwave giving out... electrical problem? Also smells off,Loud Noises,ST27294010
+"Righte2s
+
+208V
+
+Faults 
+0
+
+Amps-16.7
+Left Circuit-8.4
+Right Circuit-8.3
+Heaters-10.7
+
+Checked EC, door open call
+
+Primary door switch wasn’t properly adjusted and would give door open error when closed . Adjusted door switches , tested unit, all test pass without faults.",Oven door does not shut all the way. Sometimes leaves an error saying the oven is still open. Door is slightly off the hinge but connected.,Close Door Error,ST27294011
+"Righte2s
+
+208V
+
+Faults 
+0
+
+Amps-16.4
+Left Circuit-8.2
+Right Circuit-8.2
+Heaters-11.3
+
+Checked EC, constant key press
+
+Reset and recalibrated oven, tested unit, all test pass without faults.",called the store to troubleshoot it but store already did it and request for a tech Error code came up for over heating. Followed instructions on fixing and it was resolved briefly. Now touch screen is not working.,Constant Key Press,ST27294012
+"Right MerryChef 
+
+208V
+
+Faults zero
+
+Amps-17.2
+Left Circuit-8.6
+Right Circuit-8.6
+Heaters-10.9
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly 
+
+Left door switch needing to be adjusted due to hinge barely activating switch 
+Readjusted door switch 
+All test passed without any faults 
+Nicole",Oven will not read that the door is closed,Close Door Error,ST27294015
+"Right Merrychef
+
+208V
+
+Faults zero
+
+Amps-17.0
+Left Circuit-8.4
+Right Circuit-8.6
+Heaters-11.0
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly
+
+Unable to reproduce faults 
+All test passed 
+MOD Nicole",Oven keeps freezing on clean filter . We cleaned filter at open as well as 3 times more after that . Keeps freezing on screen annd saying overheated,Air Filter Error,ST27294025
+Unplugged oven. Plugged it back in. Error goes away. Mag amps 8.2/8.2. Oven operational and back in normal use.,"Warning constant key press detected call service support"" called yesterday to troubleshoot and it did not fix the issue.",Constant Key Press,ST29154034
+Found out of sequence switches. Adjusted switches. Mag amps 8.7/8.7. Oven is operational and back in normal use.,"Screen says ""door is open"" when the door is closed. If we jiggle the door it'll register that it's closed, we just don't want the problem to get worse.",Door Issue,ST29154052
+"No issue found with oven. Could not duplicate issue. Ran each mag until it auto cut off. No arcing or any sound made. Pulled out mags to check antennas, no arcing damage or discoloration. Mag amps 8.6/8.4. Oven is operational and back in normal use.","In the back of the oven, there is a spark that sounds kind of like an electric current. It goes off anytime you put food in there and start cooking it.",Door Issue,ST29154055
+Found oven with SW3 out of position. Adjusted SW3. Oven operational and back in normal use.,"Right oven keeps saying ""door open"" when it isn't.",Close Door Error,ST29154059
+Found oven with out of sequence switches. Adjusted switches. Mag amps 8.5/8.5. Oven is operational and back in normal use.,"Oven keeps saying ""door is open"" when the door is closed on the left oven. Has been getting progressively worse over the past few days.",Close Door Error,ST29154060
+nan,"Heater failed error code,",116 Heater OFF on Request,ST29154062
+"LeftE2S 
+
+Faults
+E87/1
+
+Volts
+208
+
+Amps
+R-8.3
+L-8.2
+
+Heater Amps 
+10.9
+
+Checked EC,Constant Key Press
+
+Restarted unit calibrated screen , tested unit all tests passed with zero faults 
+
+Edgar","edgar SS, 5520 oven is saying it was pressed too many times.partner tried turning oven on and off but it did not work. serial number-2201213091548 Merrychef E2S Ovens - All Issues KB0012272 sh-4am-7pm",101 Magnetron Failure,ST5520027
+Location stated that oven had constant keypress message. Tech unplugged oven and plugged back in for a hard reset. No other issues have been found at this time,Oven wont go back to regular screen,Constant Key Press,ST8456038
+Manger reset breaker earlier and did not cancel,Right oven is not turning on.,No Power,ST6360034
+"10/27/2023
+
+Starbucks#6360 WO completed, SN: 2202213090978, inspected unit, discovered mag failure in error log, tested mag amperage, low amperage, replaced both mags with new, transferred components onto new mags, turned unit on, all amp readings are normal, unit heated up successfully without any errors, tested unit multiple times, food is being cooked. Unit is up and running at this time.",Food consistently comes out cold,Food Not Cooking Properly,ST6360038
+Technician arrived on site and was informed close door error would occasionally show up. Technician found that the door switches were misaligned. Technician realigned switches then ran a function and cook test. Unit performed properly and is working.,Does not close. Says door open after closing,Door Issue,ST6360045
+"208v
+
+8.00 amps each circuit 
+17.00 amps mags combined 
+
+10.00 amps heater 
+
+Unit display issue 
+
+Upon inspecting unit found that the screws that hold up the display came loose. 
+
+Remounted screws. 
+
+Tested unit all test passed at 0 faults","Screen pushing backwards, hard to tap/ select",Menu Issue,ST25053024
+"LeftE2S 
+
+Faults
+0
+
+Volts
+208
+
+Amps
+R-8.4
+L-8.4
+
+Heater Amps 
+11
+
+Checked EC, loose door handle 
+
+Realigned door handle and tightened screws, tested unit all tests passed with zero faults 
+
+Jesus",Handle is broken from right side. Need to push handle down to close oven.,Broken Door Handle,ST25053028
+"Mod:Jesus
+Brand:Left Merrychef 
+Sn#2203213090541
+Main power:208
+Heater Amps:10.5
+Mag Amps:8,8
+
+Notes:
+Touchscreen calibration","Screen isn't calibrated, so we've been needing to press off center in order to make the selection that we want. We can't press the back button because of the misalignment.",Display Issue,ST25053030
+"LeftE2S
+
+Faults
+0
+
+Volts
+208
+
+Amps
+R-8.3
+L-8.2
+
+Heater Amps
+10.9
+
+Checked EC , constant Key Press 
+
+Restarted unit and calibrated screen, tested unit all tests passed with zero faults 
+
+MOD","Constant key press detected, screen needs to be replaced",Constant Key Press,ST25053032
+"Right MerryChef 
+
+208V
+
+Faults constant key press 
+
+Amps-17.0
+Left Circuit-8.4
+Right Circuit-8.6
+Heaters-11.0
+
+Checked EC, test unit, all test pass without faults.
+Stirrer working properly
+Air filter cleaned and positioned properly
+
+Constant key press detected 
+Showed Kate SS how to resolve error by unplugging unit from outlet for 10’seconds then plugging back in to give oven a hard reset. 
+Calibrated units display
+All test passed without any faults
+Kate",Constant key press error,Constant Key Press,ST25053035
+"Help
+
+
+Advice store to trouble shoot, oven is now working","Help Advice store to trouble shoot, oven is now working",Constant Key Press,ST49081020
+"*advised store to unplug the oven and plug it back in. Oven is working fine now.
+","*advised store to unplug the oven and plug it back in. Oven is working fine now. Will not mov away from this display, cannot use ovens.",Constant Key Press,ST49081022
+"ISSUE REPORTED: Some Breakfast sandwiches are not cooking all the way and both are not connected to the wifi and not getting recipe updates.
+
+PROBLEMS FOUND: oven doesn’t have update holiday menu.
+
+RESOLUTION: applied and install new holiday menu via usb. Ran cook test cycle oven works to manufacture specs.",Some Breakfast sandwiches are not cooking all the way and both are not connected to the wifi and not getting recipe updates.,Food Not Cooking Properly,ST851011
+THIS CALL HAS BEEN COMPLETED FOUND THAT UNIT HAD BAD SRB BOARD REPLACED UNIT FULLY OPERATIONAL SERIAL MATCHED CALL COMPLETED FRIDAY 1/13/23 @ 9:00AM EST,New Merry Chef Oven. No power. Cant find reset button? Not the breaker because everything else is still running. On/off switch not working. Plugged/unplugged not working.,No Power,ST3467003
+THIS WAS COMPLETED MONDAY 2/27 AT 12:00 PM SERIAL MATCHED UNIT REQUIRED A FIRM WARE UPDATE UNIT FULLY OPERATIONAL,The right oven display will flash to a white screen that says WELBILT with blue text that says BTSBoot V 1.0.4 Check pm firmware Check flash firmware This happens randomly and repeatedly interrupting cook times. It started happening on fri of last week. We are open mon - fri 5.30am- 4.30pm,Display Issue,ST3467004
+JOB COMPLETED @10:24AM ON 3/3/23. TECH FOUND UNIT HAD A BAD SRB BOARD. REPLACED AND UNIT IS FULLY OPERATIONAL. SERIAL #: 2209213090651. SERIAL VERIFICATION BELOW,Oven shuts off as soon as we turn it on to cook food. Display will flash WELBILT in blue text then turn off and stop cooking the item. We are unable to use the oven at all leaving us with only 1 operating oven.,Shuts Off,ST3467005
+"Parts ordered were installed and unit operational 
+4/27 @ 1pm",Right oven was calibrating then the screen went white and it has not been operable since. We are open mon-fri 6-4.30,Display Issue,ST3467006
+CALL COMPLETED 8-29 8:30 AM TECH UPDATED MENU VIA USB,Merrychef E2S Ovens - All Issues KB0012272 randi (sm) called because her stores oven are not updating. both ovens are missing guardian modules and one of them has chords that just arent connected to anything and they dont know where to plug them. (qr: 7290365520) store hours: 530am-5pm,Menu Issue,ST3467007
+"CALL COMPLETED 3-5@10:30AM TECH REPLACED COOK PLATE AND STUDS
+","Some of the pegs inside the oven are flattening out on top, causing indents to burn into the bottom of the oven plate and causing the oven plate to wobble. Just got new plates and they are already becoming damaged due to this issue. Submitted two tickets because this is an issue with both ovens.",Tray/Peg Issue,ST3467010
+JOB COMPLETED @ 7PM ON 7/9/23. TECH FOUND THAT FILTER WASN'T MAKING CONTACT WITH THE AIR FILTER SWITCH. ADJUSTED FILTER SWITCH AND UNIT IS FULLY OPERATIONAL. SERIAL MATCHED.,Left hand oven closer to hand washing sink says the air filter has a error. Its correctly put in also.,Air Filter Error,ST7708006
+"Left oven, constant, key press, unplugged, oven, plugged back in, calibrated, touchscreen, test, OK",Touch screen not detecting finger,Constant Key Press,ST71737003
+"No issues with the oven. The customer hadn’t been cleaning the display when it was turned on the previous morning. Tech cleaned the display, reset the unit, tested all electrical compartments, and produced them multiple times. No issues were found in the oven. 
+
+FCC.11:58am",Constant key press malfunction,Constant Key Press,ST65863003
+"Constant key pressing. 
+No issues with the oven. The customer hadn’t been cleaning the display when it was turned on the previous morning. Tech cleaned the display, reset the unit, tested all electrical compartments, and produced them multiple times. No issues were found in the oven. 
+
+FCC.3:23pm",Warning display,Display Issue,ST65863006
+"Completed 
+Reset breaker and updated menu ran test on all 
+2306214091515
+1:00-2:00
+#27327378
+
+Dale Meeker
+702-283-7739
+",No power plug is connected it isnt the breaker cause we got two ovens same plug but only one is on,No Power,ST69589001
+"Completed 
+Main blower motor vibration at 100% tighten mounts
+2406213091515
+3:30-4:45
+#27330400
+
+
+Dale Meeker
+702-283-7739
+",The left oven makes a loud grinding noise when cooking items that require more heat or longer cook times.,Loud Noises,ST69589002
+Tech arrived onsite to find the oven in operation the location stated they haven’t had the error come back. Location did not want the tech to service the oven as they were using it. Tech explained if the error comes back to let us know. Closing the call tech explained that the E104 means mags are overheating most likely caused by the air fins clogging most likely they need replacing. Closing the call as service was denied at this time.,Error code 104,104 Mag/Cavity Overheat Trip,ST52341033
+"208v
+
+Left oven 
+
+8.00 amps each circuit 
+17.00 amps mags combined 
+
+10.00 heater amps 
+
+Faults 
+Constant key press 
+
+Reset of unit and calibrated screen. 
+
+Tested unit all functioning properly 
+
+No issues present 
+
+Menu current",Called service support but they were unavailable after 6?? Need this fixed asap,Constant Key Press,ST59539014
+Arrived onsite and found oven working. Staff onsite said oven was just unplugged and they plugged it back in this morning.,No power,No Power,ST23310037
+"Another company updated menu. 
+Forgot to cancel our ticket","This oven has not updated and we are getting the green KCCM, we followed the instructions to turn off then back on but its not giving us the option to start the update.",Menu Issue,ST23310038
+"Found both fuses blown. 
+Still do not have proper 25amp fuses from manufacturer for new ovens.
+Replaced with equivalent fuses.
+Also adjusted the alignment of the door switches.
+Oven currently operating properly.",Stuck on this screen and inoperable,Display Issue,ST23310040
+"Constant key press was the issue.
+Problem resolved before we arrived on site.
+Oven is operating properly without error",Reading a button press when its not being pressed,Display Issue,ST23310041
+Called store and spoke with SM Kellie and walked them through power cycling the unit to clear the constant keypress error.,Try to restart it didn't work,Constant Key Press,ST23310044

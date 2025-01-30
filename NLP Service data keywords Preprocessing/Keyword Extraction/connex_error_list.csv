@@ -1,0 +1,238 @@
+﻿Type,Error/Warning Type,Error Code,Error log message,System,Event / Error parameters,UI displays,IREG,BIT,UI Error state (Detailed in error state document),IO State,Components at Fault / Diagnosis,Notes / Comments
+Critical,Recommissioning ,E89,COOLING_FAN_FAIL,cooling fan test fail,User input,Event log only / Display error pop-up if first time turn test,,,,,,
+Critical,Recommissioning ,E90,CONVECTION FAN FAIL,convection fan test fail      ,User input,Event log only / Display error pop-up if first time turn test,,,,,,
+Critical,Recommissioning ,E92,HEATER_FAIL    ,heater test fail,< 10°C temp rise in 90 seconds,Event log only / Display error pop-up if first time turn test,,,,,,
+Critical,Recommissioning ,E93,MAGNETRON_FAIL      ,magnetron test fail,"Dynamic Measure of the % of power (W)
+e.g. 230V X 7.5A = 1725W
+
+Single Mag = 25% of 1750W
+Twin Mag = 125% of 1750W
+10 second de-bounce for each strike",Event log only / not checked in first time turn on test,,,,,,
+Critical,Recommissioning ,E94,FILTER_IN_FAIL      ,filter in test fail,User input / Switch open,Event log only / Display error pop-up if first time turn test,,,,,,
+Critical,Recommissioning ,E95,FILTER_OUT_FAIL     ,filter out test fail,User input / Switch closed,Event log only / Display error pop-up if first time turn test,,,,,,
+Critical,Recommissioning ,E96,CLOSE_DOOR_FAIL     ,door close test fail,User input / Door switch open ,Event log only / Display error pop-up if first time turn test,,,,,,
+Critical,Recommissioning ,E97,OPEN_DOOR_FAIL      ,door open test fail,User input / Door switch closed,Event log only / Display error pop-up if first time turn test,,,,,,
+Non-Critical,Information,E80,OVEN_OUT_OF_TEMP_BAND,Oven has dropped out of the temp band,Oven has dropped out of the temp band,Event log only,,,,,,
+Non-Critical,Information,E84,COMPLETED CLEANING CYCLE,Completed cleaning cycle,User has gone through the cleaning process and selected the tick at the end,Event log only,,,,,,
+Non-Critical,Information,E85,PASSWORD RESET,Password Reset,User has reset the password by inputting the serial number and setting a new password,Event log only,,,,,,
+Non-Critical,Information,E82,MENU_UPDATE,Menu updated via USB     ,Menu updated via USB,Event log only,,,,,,
+Non-Critical,Information,E81,FIRMWARE_UPDATE     ,Firmware updated via USB,Firmware updated via USB,Event log only,,,,,,
+Non-Critical,Information,E99,FILTER_OVERRIDE,air filter override accepted       ,User input,"UI displays Warning message
+
+Air Filter removed
+Please replace the air filter to continue
+(By selecting cancel and overriding the air filter monitoring this will be logged)x
+
+E99 is only logged if user has selected cancel on warning message",,,,,,
+Non-Critical,Information,E86,SOFTPOWER_ON,Soft power on,Oven on/off switch ,Event log only,,,,,,
+Non-Critical,Information,E100,POWER_ON ,main power on,Main power to oven,Event log only,,,,,,
+Critical,Errors Conditions,E75,Copy to eMMC failed,"eMMC 
+(embedded MultiMedia Card)
+is the UI onboard memory card (Non-removable)","If the UI onboard memory is corrupt, the copy will fail.
+The UI will attempt the copy twice
+If the copy fails, the UI will continue to operate from the SD card ","E75 
+Copy to eMMC fail",,,,"Cooling fan = 100%
+Convection fan = 50%","No immediate action required. 
+If the UI is slow or freezes, the UI will need to be replaced. 
+The original SD card can be reused in the new UI.
+Copy to eMMC will be attempted on the replacement UI","Onboard Flash memory for mobile computing devices
+More robust than the SD card. 
+Moving the operating system to the eMMC will reduce the chance of UI lagging and freezing behavior "
+Critical,Errors Conditions,E76,X510 Jumper missing from input,X510 IO input.,A link that shorts the 12Vdc is missing from the IO input X510,"E76 
+X510 Jumper missing",,,,"Cooling fan = 100%
+Convection fan = 50%",Fit a link jumper to the IO input X510,"This is input would be used if conneX had a physical power switch like an eikon.
+For conneX, the  power switch is software driven, so the 12Vdc needs to be shorted."
+Critical,Errors Conditions,E77,Comms Error,Comms Error,UI generated comms error to distinguish from the E107,"E77
+Comms Error
+Please contact your Merrychef service partner to resolve",N/A,,2,"Cooling fan = 100%
+Convection fan = 50%","The UI has detected a communication issue between the UI and IO.
+Power cycle the oven
+Check the condition of the UI to IO cable
+Check the input on the IO board
+If E77 cannot be cleared, replace the IO","This is UI generated so we can distinguish from the E107 error that used to be triggered by either the UI or IO if there was a COMs error. 
+
+If the UI is displaying the COMs error, the UI has to be functioning.
+The COMs error could be a result of the IO being unresponsive.
+The COMs error could be a result of faulty cabling between the UI and IO."
+Critical,Errors Conditions,E83,INCOMPATIBLE FIRMWARE,Incompatible IO version,Incompatible IO version,"E83
+Incompatible Firmware
+Please contact your Merrychef service partner to resolve",N/A,,2,"Cooling fan = 100%
+Convection fan = 50%",Check part number of the Personality module is correct for the oven model,"The IO firmware is held in the UI firmware as a package. 
+After the UI is updated, the IO firmware is pushed to the IO  from the UI.
+If the IO firmware version number does not match the version on the UI, the UI will display an E83 "
+Critical,Errors Conditions,E88,SUPPLY_VOLTAGE,supply voltage out of range,"50Hz <180Vac - +253Vac
+60Hz <180Vac - +264Vac","
+E88 
+Supply voltage out of range. 
+Please contact your Merrychef service partner to resolve""
+",IREG20,12,2,"Cooling fan = 100%
+Convection fan = 50%","Check in the error log for voltage supply values that are outside of nominal
+Check fuses F1 - F7
+Check wire 26 to IO input X403 LVM (Line Voltage Monitoring)
+Continuity check the  resistors next to input X403
+Visually check the capacitor (Blue capacitor)
+Check in SERVICE / Diagnostic view for supply voltage ","The lower end of the voltage out of range parameter is set by the lowest voltage the VFD / speed controller can operate at. 
+When detected, the UI will display an error pop-up. 
+The higher end of the voltage out of range parameter is set by the IO and is only logged in the error log. "
+Critical,Errors Conditions,E101,ERROR_MAGNETRON_REQUEST,magnetron failed                  ,"Dynamic Measure of the % of power (W)
+e.g. 230V X 7.5A = 1725W
+
+Single Mag = 25% of 1750W
+Twin Mag = 125% of 1750W
+10 second de-bounce for each strike","E101
+Magnetron system Failed at the moment microwave was needed
+Please contact your Merrychef service partner to resolve",IREG20,10,1,"Cooling fan = 100%
+Convection fan = 50%","Check for an E88
+Check Wire 12 to SW2
+Check the door switches (SW1, SW2, SW3)
+Check wire 24 from to IO input X400
+Visually check the triac for signs of shorting
+","Standard power / Single mag ovens = >2Amps
+High power / Twin mag ovens = >9.5Amps"
+Critical,Errors Conditions,E102,ERROR_HEATER_ON,Heater on without request,Cavity reaches 300°C,"E102
+Heater On Without Request
+Please contact your Merrychef service partner to resolve",IREG20,8,2,"Cooling fan = 100%
+Convection fan = 50%",Visually check the heater triac on the IO for signs of shorting,"There is no current(A) detection on the IO for the heaters, this error is detected by the cavity temperature"
+Critical,Errors Conditions,E103,ERROR_AMBIENT,Ambient overheat > 70°C,"UI or IO > 65°C
+Cooling fan is @100% when IO/UI >65°C","Log an ""E103 warning"" in the event log
+If Ambient >70°C, Pre air filter removal.
+Warning Pop-up Message 1 
+""Ambient overheat detected, Please remove, replace and clean the air filter located below the door""
+
+Log the ""Air filter remove"" and ""Air filter replace"" in the event log
+If Ambient >70°C for <2mins air filter removed and replaced,
+Warning Pop-up message 2 
+“Oven cooling please wait...""
+
+If Ambient <70°C for <2mins post air filter removed and replaced,
+Oven power cycles, returns to normal operation
+
+Log ""E103 error"" in the event log
+if Ambient >70°C >2Mins, air filter removed and replaced
+Error Pop-up message
+""E103 ambient overheat. 
+Please contact your Merrychef service partner to resolve""",IREG20,4,4,"Cooling fan = 100%
+Convection fan = 50%","Clean air filter 
+Check inlet and outlet for air flow
+Check cooling fan is operating
+","The IO and UI uses a thermistor to detect the temperature of the ambient.
+ When a temperature of 65°C is detected, the cooling fan will increase to 100% to try and cool the IO and UI before triggering a warning pop-up. 
+ When a temperature of 70°C is detected, the cooling fan operate at 100% to cool the IO and UI. The UI will display a warning message and instructions for the user to follow.
+If the overheat cannot be cleared, the UI will display an E103 error pop-up 
+ "
+Critical,Errors Conditions,E104,CAVITY_OVERHEAT_STAT,Cavity Overheat stat,CAVITY OVER TEMPERATURE STAT OPEN CIRCUIT,"E104
+Cavity overheat stats released
+Please contact your Merrychef service partner to resolve",IREG20,13,2,"Cooling fan = 100%
+Convection fan = 50%","Over temperature Stat (OTS) calibration out of spec (low calibration)
+Cavity thermocouple reading incorrect cavity temp (Cavity calibrated too high)
+Clean air filter
+Convection fan not operational
+Cooling fan not operational
+Position of the bulb","The O.T.S (Over Temperature Stat) is made up of a bulb, capillary and a body which houses the switch. 
+The bulb is attached to the side of the cavity or hotbox in a specific position under the cavity wrap. The position of the stat has been defined so that it causes the switch to go open circuit when the cavity reaches 314°C / 597°F. 
+The bulb is filled with an oil which travels along the capillary up to the body. When the oil pressure in the switch reaches a certain pressure due to excessive heat, it triggers the switch to go open circuit. 
+The switch is connected to the 12Vdc circuit which powers the safety relay. When the OTS trips, it opens the 12Vdc circuit failing the oven safely. "
+Critical,Errors Conditions,E105,ERROR_SUPPLY_FREQUENCY,Mains Supply Frequency Out of Range,  +-2Hz from nominal,"E105
+Mains Supply Frequency Issue
+Please contact your Merrychef service partner to resolve",IREG20,5,2,"Cooling fan = 100%
+Convection fan = 50%","See E88 checks
+MW leakage",The source of an E105 will more than likely be coming from the electrical supply with rare cases of microwave leakage causing the error to trigger when it causes interference with the components on the IO 
+Critical,Errors Conditions,E106,ERROR_CAVETY_OVERHEAT, Cavity reaches XX°C above setpoint,Cavity reaches 75°C above setpoint or  300°C ,"E106
+
+Cavity overheat
+
+Please contact your Merrychef service partner to resolve",IREG20,0,1,"Cooling fan = 100%
+Convection fan = 50%","Calibration out of spec
+thermocouple reading faulty
+Faulty Over temperature stat
+Clean air filter
+Cooking cycle has too slow convection fan speed
+",
+Critical,Errors Conditions,E107,ERROR_COMMUNICATION, communication error UI,UI cannot communicate,"E107
+Communication Error
+Please contact your Merrychef service partner to resolve",IREG20,11,2,"Cooling fan = 100%
+Convection fan = 50%","IO cannot read the UI output
+Check the UI cable from the IO board","If the UI is not displaying the COMs error the fault is possibly with the UI.  If the error log has E107 logged, the IO has to be working. In this case the COMs error is more than likely being triggered as a result of the UI being unresponsive"
+Critical,Errors Conditions,E108,N/A,UI SD Card Error,Data missing from SD card user partition,"E108
+UI SD Card Error
+Restart the oven",N/A,N/A,2,N/A,A restart of the UI resets the missing file.,
+Critical,Errors Conditions,E109,ERROR_IO_PM,IO PM error,Missing or corrupt PM / PM removed during operation,"E109
+IO PM Error
+Please contact your Merrychef service partner to resolve",IREG20,7,2,"Cooling fan = 100%
+Convection fan = 50%","Check the PM is seated correctly
+Check the part number is correct for the model",
+Critical,Errors Conditions,E111,ERROR_CAVITY_SENSOR    ,cavity sensor failed ,Cavity sensor open circuit,"E111
+Cavity Sensor Failure
+Please contact your Merrychef service partner to resolve",IREG20,3,2,"Cooling fan = 100%
+Convection fan = 50%","Check the thermocouple connected
+Open circuit X530",
+Critical,Errors Conditions,E112,ERROR_IO_SENSOR,IO Controller Sensor Fail,Shorted IO temp sensor,"E112 
+IO Board Temperature sensor failure
+Please contact your Merrychef service partner to resolve",IREG20,,2,"Cooling fan = 100%
+Convection fan = 50%","Failure of on board temperature sensor
+Replace the IO",This component is the thermistor that's used to measure the ambient temperature around the IO
+Critical,Errors Conditions,E113,ERROR_MAGNETRON_ON_WITHOUT_REQUEST,Magnetron on without request,>1amp,"E113
+Magnetron on Without Request
+Please contact your Merrychef service partner to resolve",IREG20,10,2,"Cooling fan = 100%
+Convection fan = 50%",Visually check the triac for signs of damage / shorting,
+Critical,Errors Conditions,E116,ERROR_HEATER_OFF,Heater off with on request,Cavity does not reach 100°C in 30 minutes,"E116 
+Heater not responding
+Please contact your Merrychef service partner to resolve
+",IREG20,9,2,"Cooling fan = 100%
+Convection fan = 50%","Check for E88
+Check 12V safety relay
+Check wiring W11 and W29 (X12)
++W77 and W78 (X16)
+Visually check triac for signs of shorting or blown
+Check heater element","Because the IO does not heater current (A) sense, the oven detects this error by monitoring the cavity temperature rise over time. "
+Critical,Errors Conditions,E117,LEFT HAND MAG OVERHEAT,MAG STAT OPEN CIRCUIT,MAG STAT OPEN CIRCUIT,"UI displays
+Message 1 (Warning Pop-up)
+if Mag stat >125°C, open circuit, Pre air filter removal
+""E117 Magnetron overheat detected.
+Please remove, replace and clean the air filter
+located below the door""
+
+Message 2 (Warning Pop-up)
+if Mag stat >125°C, open circuit, <2minutes, post air filter removal
+""Magnetron overheat recovery, Oven Cooling, please wait.....""
+
+if Mag stat <125°C, closed circuit, <2minutes, post air filter removal
+	oven power cycles and returns to normal operation. 
+
+Message 3 (Error Pop-up)
+if Mag stat >125°C, open circuit, >2minutes, post air filter removal
+""E117 Magnetron overheat ""
+recovery unsuccessful,
+Please contact your Merrychef service partner to resolve""
+",IREG20,13,4,"Cooling fan = 100%
+Convection fan = 50%","Magnetron stat +125°C
+
+Clean the air filter
+Check wiring W73 and W74
+Faulty stat","The Magnetron over temperature stat is a bimetallic switch that will go open circuit at 125°C / 275°F.
+"
+Critical,Errors Conditions,E118,RIGHT HAND MAG OVERHEAT,MAG STAT OPEN CIRCUIT,MAG STAT OPEN CIRCUIT,"UI displays
+Message 1 (Warning Pop-up)
+if Mag stat >125°C, open circuit, Pre air filter removal
+""E118 Magnetron overheat detected.
+Please remove, replace and clean the air filter
+located below the door""
+
+Message 2 (Warning Pop-up)
+if Mag stat >125°C, open circuit, <2minutes, post air filter removal
+""Magnetron overheat recovery, Oven Cooling, please wait.....""
+
+if Mag stat <125°C, closed circuit, <2minutes, post air filter removal
+	oven power cycles and returns to normal operation. 
+
+Message 3 (Error Pop-up)
+if Mag stat >125°C, open circuit, >2minutes, post air filter removal
+""E118 Magnetron overheat ""
+recovery unsuccessful,
+Please contact your Merrychef service partner to resolve""
+",IREG20,13,4,"Cooling fan = 100%
+Convection fan = 50%","Magnetron stat +125°C
+
+Clean the air filter
+Check wiring W71 and W72
+Faulty stat",The Magnetron temperature stat is a biometalic switch that will go open circiut at 125°C / 275°F.
