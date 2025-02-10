@@ -36,6 +36,7 @@ Our team has made significant progress, laying the groundwork for a data-driven 
 We started by extracting keywords from service reports to pinpoint common issues and patterns that frequently require replacement. This process involved identifying terms that consistently appeared across multiple reports, helping us understand recurring problem areas.
 
 #### Sample: Keywords associated with door system
+
 ![Keywords associated with door system](Doc_images/Picture1.jpg)
 
 #### Categorizing system:
@@ -47,6 +48,7 @@ By associating keywords with specific part swaps, we created a structured system
 We utilized advanced models within Large Language Models (LLMs) to analyze and establish relationships between keywords and their associated systems. This analysis has provided us with predictive insights into likely failure points, enabling a more proactive approach to part replacement and maintenance.
 
 #### Sample: Describe the issue, and it predicts the defective system
+
 ![Correlation analysis results](Doc_images/Picture8.jpg)
 
 **The systems list includes:**
@@ -59,8 +61,11 @@ We utilized advanced models within Large Language Models (LLMs) to analyze and e
 We are actively working on improving accuracy by implementing feature enhancements and equipping the model with baseline scenarios to enable more precise predictions and trying to achieve **80-90% accuracy**.
 
 The snapshot of results:
+
 ![Snapshot analysis results](Doc_images/Picture2.jpg)
+
 ![Snapshot analysis results](Doc_images/Picture3.jpg)
+
 ![Snapshot analysis results](Doc_images/Picture4.jpg)
 
 #### Keywords and Part Failure:
@@ -70,8 +75,11 @@ We are further examining how keywords correlate with part failure in predictive 
 We are also analyzing correlations between different error codes to identify if any patterns emerge.
 
 #### Snapshots of results:
+
 ![Error Correlation Analysis](Doc_images/Picture5.jpg)
+
 ![Error Correlation Analysis](Doc_images/Picture6.jpg)
+
 ![Error Correlation Analysis](Doc_images/Picture7.jpg)
 
 ## Challenges and Strengths
