@@ -1,10 +1,10 @@
 # **Data Analysis: System Design Flowchart**
 
-![system Architecture](picture9.png)
+![system Architecture](Doc_images/Picture9.jpg)
 
 # **Flow System Design Architecture**
 
-![system Architecture](picture10.png)
+![system Architecture](Doc_images/Picture10.jpg)
 
 ## **1. Data Ingestion Layer (Internal Service Data + External Data Scraping)**
 
